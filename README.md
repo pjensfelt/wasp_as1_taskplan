@@ -4,8 +4,8 @@ Files from https://kth.instructure.com/courses/4962/pages/module2-mtrl-motion-pl
 
 ## Computer Exercise 1: Sampling-Based Motion Planning Using RRT* in OMPL
 Files
-* visualize.py
+* ompl/visualize.py
 
 ## Computer Exercise 2: Lattice-Based Motion Planning using SBPL
 Files
-* visualize_ex2.py
+* sbpl/visualize_ex2.py
