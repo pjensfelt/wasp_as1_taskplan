@@ -120,7 +120,7 @@ void planxythetalat(char* envCfgFilename, char* motPrimFilename){
  
     // specify a start and goal state
     int start_id, goal_id;
-    setEnvStartGoal(env, .11, .11, 0, 35, 47.5, 0, start_id, goal_id);
+    setEnvStartGoal(env, 0, 0, 0, 6, 2, 0, start_id, goal_id);
  
     // initialize a planner with start and goal state
     SBPLPlanner* planner = NULL;
